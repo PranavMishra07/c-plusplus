@@ -26,7 +26,7 @@ public:
 	}
 	void getPira()
 	{
-		cout << "\nParameter of Rectangle : " << (2 * (l + b));
+		cout << "\nParameter of Rectangle : " << (2 * (l + b));git 
 	}
 	// Member Function
 };
